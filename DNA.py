@@ -10,7 +10,7 @@ from ast import With
 
 
 with open(
-    "/Users/rayanhg/Desktop/python/Intro to Python/Rosalind/rosalind_dna.txt"
+    "Data/rosalind_dna.txt"
 ) as file:
 
     dna = file.read()
