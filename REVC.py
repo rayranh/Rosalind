@@ -8,7 +8,7 @@ URL: https://rosalind.info/problems/revc/
 '''
 
 with open(
-    "/Users/rayanhg/Desktop/python/Intro to Python/Rosalind/rosalind_revc (1).txt"
+    "Data/rosalind_revc (2).txt"
 ) as file:
     dna = file.read().rstrip(
         "\n"
