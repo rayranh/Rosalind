@@ -6,7 +6,7 @@ Rosalind #: 002
 """
 
 with open(
-    "/Users/rayanhg/Desktop/python/Intro to Python/Rosalind/rosalind_rna (2).txt"
+    "Data/rosalind_rna (3).txt"
 ) as file:
 
     dna = file.read()
